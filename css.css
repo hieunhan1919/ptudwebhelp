@@ -8,6 +8,8 @@
         
         h1 {
             font-weight: bold;
+            color: #fff;
+
         }
         
         .indented {
@@ -17,10 +19,13 @@
         h2 {
             margin-top: 20px;
             font-size: 2rem;
+            color: #fff;
         }
         
         p {
             font-size: 1.5em; /* Cỡ chữ bằng với H2 */
+            text-align: left;
+            color: #527853;
         }
         
         img {
