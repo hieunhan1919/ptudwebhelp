@@ -8,7 +8,7 @@
         
         h1 {
             font-weight: bold;
-            color: #fff;
+            color: rgb(6, 127, 61);
 
         }
         
@@ -19,13 +19,13 @@
         h2 {
             margin-top: 20px;
             font-size: 2rem;
-            color: #fff;
+            color: rgb(6, 127, 61);
         }
         
         p {
             font-size: 1.5em; /* Cỡ chữ bằng với H2 */
             text-align: left;
-            color: #527853;
+            color: #3c5e3d;
         }
         
         img {
